@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @voltrans-it-vincent
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-voltrans-it-vincent/voltrans-it-vincent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vincent!;" />
+</h1>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/voltrans-it-vincent/salesp07/blob/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
